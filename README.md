@@ -8,7 +8,7 @@ I have been coding since almost two years, first I have started with Java, but n
 
 * 🌍  I'm based in Munich, Germany
 * ✉️  You can contact me at [jakobrehmdev@gmail.com](mailto:jakobrehmdev@gmail.com)
-* 🧠  I'm learning advanced Go features
+* 🧠  I'm learning Neural Networks
 * 🤝  I'm open to collaborating on Web Projects, some CLI, Desktop Applications
 
 ### Skills
